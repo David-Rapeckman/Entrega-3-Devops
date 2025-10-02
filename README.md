@@ -48,7 +48,6 @@ Essa abordagem não só aumenta a eficiência operacional, mas também reduz err
 ## 📂 Estrutura do Repositório
 
 - `README.md` → Guia de deploy e testes.
-- `scripts/` → Scripts de inicialização do banco de dados e automação.
 - `docs/` → Documentação auxiliar.
 
 ---
