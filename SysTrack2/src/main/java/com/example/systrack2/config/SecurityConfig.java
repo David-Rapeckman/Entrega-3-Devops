@@ -20,6 +20,8 @@ public class SecurityConfig {
 
     private final UsuarioRepository usuarioRepository;
 
+
+
     @Bean
     public UserDetailsService userDetailsService() {
         return username -> {
